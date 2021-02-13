@@ -1,3 +1,9 @@
+# Unit 02 Mini-Project: CSS Snippet Cheat Sheet
+
+In this activity, you will work with a group to build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
+
+## Instructions
+
 The completed application should meet the following criteria:
 
 * As a user, I can view a collection of labeled CSS snippets in a responsive grid.
@@ -41,3 +47,10 @@ The completed application should meet the following criteria:
 ## 💡 Hints
 
 * The HTML `<pre>` element is very literal about spaces and indentation. To gain a better understanding of how to work with it, check out this article on [considerations for styling the pre tag](https://css-tricks.com/considerations-styling-pre-tag/).
+
+## 🏆 Bonus
+
+* Set this project up in your own GitHub repositories so that you can deploy and use it for future reference!
+
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
